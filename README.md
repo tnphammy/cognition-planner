@@ -1,5 +1,7 @@
 # Cognition – *Rewire* Productivity.
 
+![coggy](https://github.com/user-attachments/assets/5bc3cd45-1fa4-4281-afdd-960b11051e7d)
+
 ## 💌 Introduction
 
 Hi task-having individuals (aka everyone),
