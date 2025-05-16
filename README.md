@@ -1,2 +1,2 @@
 # cognition-planner
-Cognition – Rewire Productivity.
+Cognition – *Rewire* Productivity.
